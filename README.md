@@ -1,4 +1,4 @@
-# Proyecto-Sena-Eoni
+# Proyecto-Sena-Eonia
 🕯️ Eonia – Tienda de Velas Artesanales
 Este proyecto corresponde al desarrollo de un sitio web interactivo para Eonia, un emprendimiento colombiano dedicado a la elaboración y venta de velas artesanales personalizadas y productos decorativos. El objetivo es digitalizar el proceso de pedidos y promoción, ofreciendo una experiencia moderna, funcional y visualmente atractiva tanto para clientes como para la marca.
 
